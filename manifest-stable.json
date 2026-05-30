@@ -1,8 +1,8 @@
 {
+  "sha256": "66ef06b3f59759e80a1a3a13c2bd2b64ceffcd3aa0f09a39a63a05a63d9e2df0",
   "downloadUrl": "https://raw.githubusercontent.com/Pariente1/erp-portable-updates/main/stable/RrhhLocalApp-win-x64.zip",
-  "publishedAt": "2026-05-30T01:18:28.8891537+00:00",
-  "sha256": "ebfa6256e895d9f31df98f6787a0dc9c8a28f41aa3bf1fe78e203f3084a98053",
-  "version": "1.0.11.1",
-  "notes": "Build automatico desde main",
-  "channel": "stable"
+  "channel": "stable",
+  "version": "1.0.12.1",
+  "publishedAt": "2026-05-30T01:28:20.2774940+00:00",
+  "notes": "Build automatico desde main"
 }
